@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1789952678 source:c:\users\yahir\onedrive\documentos\github\navarroparalela\actividad 1.1 mpi\main.cpp
+	<iostream>
+	<mpi.h>
+	<omp.h>
+	<cstdlib>
+	<ctime>
+	<string>
+	<windows.h>
+	<unistd.h>
+

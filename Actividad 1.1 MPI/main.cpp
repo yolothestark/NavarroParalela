@@ -147,6 +147,7 @@ int main(int argc, char** argv) {
         cout << "1. Primera ejecucion (Arreglo 20 a 50 elementos)\n";
         cout << "2. Segunda/Tercera ejecucion (Arreglo 10,000,000 elementos)\n";
         cout << "Elige una opcion: ";
+        cout.flush(); // Fuerza a MPI a mostrar el texto en pantalla antes del cin
         cin >> opcion;
 
         if (opcion == 1) {

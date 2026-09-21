@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Actividad1_2_MPI_OpenMP" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Send_Recv">
+				<Option output="main_send_recv" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Send_Recv/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O3" />
+					<Add option="-fopenmp" />
+					<Add directory="src" />
+					<Add directory="C:/Program Files (x86)/Microsoft SDKs/MPI/Include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add option="-fopenmp" />
+					<Add library="msmpi" />
+					<Add directory="C:/Program Files (x86)/Microsoft SDKs/MPI/Lib/x64" />
+				</Linker>
+			</Target>
+			<Target title="Scatter_Gather">
+				<Option output="main_scatter_gather" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Scatter_Gather/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O3" />
+					<Add option="-fopenmp" />
+					<Add directory="src" />
+					<Add directory="C:/Program Files (x86)/Microsoft SDKs/MPI/Include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add option="-fopenmp" />
+					<Add library="msmpi" />
+					<Add directory="C:/Program Files (x86)/Microsoft SDKs/MPI/Lib/x64" />
+				</Linker>
+			</Target>
+			<Target title="Lanzador">
+				<Option output="Lanzador_Actividad1_2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Lanzador/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O3" />
+					<Add directory="src" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="src/OperacionesArreglos.cpp">
+			<Option target="Send_Recv" />
+			<Option target="Scatter_Gather" />
+		</Unit>
+		<Unit filename="src/OperacionesArreglos.h" />
+		<Unit filename="src/lanzador.cpp">
+			<Option target="Lanzador" />
+		</Unit>
+		<Unit filename="src/main_scatter_gather.cpp">
+			<Option target="Scatter_Gather" />
+		</Unit>
+		<Unit filename="src/main_send_recv.cpp">
+			<Option target="Send_Recv" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

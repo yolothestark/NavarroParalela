@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1788225691 source:c:\users\crack\onedrive\escritorio\pruebanavarro\practica2.3\main.cpp
-	<iostream>
-	<cstdlib>
-	<ctime>
-	<omp.h>
-

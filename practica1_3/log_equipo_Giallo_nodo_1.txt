@@ -1,0 +1,20 @@
+[Equipo: Giallo] [Proceso MPI: 1] [Hilo OpenMP: 0] [Posición: N/A] [Operación: Crear Arreglo] [Valor: 8]
+[Equipo: Giallo] [Proceso MPI: 1] [Tiempo Operación 1]: 5.09e-05 segundos.
+[Equipo: Giallo] [Proceso MPI: 1] [Hilo OpenMP: 5] [Posición: 13] [Operación: Llenar Secuencial] [Valor: 14]
+[Equipo: Giallo] [Proceso MPI: 1] [Hilo OpenMP: 6] [Posición: 14] [Operación: Llenar Secuencial] [Valor: 15]
+[Equipo: Giallo] [Proceso MPI: 1] [Hilo OpenMP: 4] [Posición: 12] [Operación: Llenar Secuencial] [Valor: 13]
+[Equipo: Giallo] [Proceso MPI: 1] [Hilo OpenMP: 2] [Posición: 10] [Operación: Llenar Secuencial] [Valor: 11]
+[Equipo: Giallo] [Proceso MPI: 1] [Hilo OpenMP: 3] [Posición: 11] [Operación: Llenar Secuencial] [Valor: 12]
+[Equipo: Giallo] [Proceso MPI: 1] [Hilo OpenMP: 0] [Posición: 8] [Operación: Llenar Secuencial] [Valor: 9]
+[Equipo: Giallo] [Proceso MPI: 1] [Hilo OpenMP: 7] [Posición: 15] [Operación: Llenar Secuencial] [Valor: 16]
+[Equipo: Giallo] [Proceso MPI: 1] [Hilo OpenMP: 1] [Posición: 9] [Operación: Llenar Secuencial] [Valor: 10]
+[Equipo: Giallo] [Proceso MPI: 1] [Tiempo Operación 6]: 0.0029937 segundos.
+[Equipo: Giallo] [Proceso MPI: 1] [Hilo OpenMP: 6] [Posición: 14] [Operación: Llenar Aleatorio] [Valor: 101588]
+[Equipo: Giallo] [Proceso MPI: 1] [Hilo OpenMP: 7] [Posición: 15] [Operación: Llenar Aleatorio] [Valor: 410976]
+[Equipo: Giallo] [Proceso MPI: 1] [Hilo OpenMP: 3] [Posición: 11] [Operación: Llenar Aleatorio] [Valor: 601266]
+[Equipo: Giallo] [Proceso MPI: 1] [Hilo OpenMP: 4] [Posición: 12] [Operación: Llenar Aleatorio] [Valor: 868585]
+[Equipo: Giallo] [Proceso MPI: 1] [Hilo OpenMP: 5] [Posición: 13] [Operación: Llenar Aleatorio] [Valor: 754474]
+[Equipo: Giallo] [Proceso MPI: 1] [Hilo OpenMP: 2] [Posición: 10] [Operación: Llenar Aleatorio] [Valor: 409180]
+[Equipo: Giallo] [Proceso MPI: 1] [Hilo OpenMP: 0] [Posición: 8] [Operación: Llenar Aleatorio] [Valor: 57923]
+[Equipo: Giallo] [Proceso MPI: 1] [Hilo OpenMP: 1] [Posición: 9] [Operación: Llenar Aleatorio] [Valor: 487809]
+[Equipo: Giallo] [Proceso MPI: 1] [Tiempo Operación 7]: 0.0013426 segundos.

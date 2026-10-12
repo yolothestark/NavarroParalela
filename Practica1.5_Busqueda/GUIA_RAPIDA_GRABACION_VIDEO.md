@@ -1,6 +1,6 @@
 # 🎬 Guía Rápida para Grabar el Video de la Actividad 1.5 (Máximo 5 Minutos)
 
-**Universidad de Guadalajara (UDG) - CUCEI**  
+**Universidad de Guadalajara (UDG) - Centro Universitario de Tonalá (CUTonalá)**  
 **Materia:** Computación Paralela  
 **Equipo:** Anguiano Garcia Angel Yahir Guadalupe & Figueroa Robles Axel Israel  
 

@@ -8,7 +8,7 @@
 void imprimir_encabezado_equipo(int rank) {
     if (rank == 0) {
         std::cout << "\n========================================================================\n";
-        std::cout << "  CENTRO UNIVERSITARIO DE CIENCIAS EXACTAS E INGENIERIAS (CUCEI)\n";
+        std::cout << "  CENTRO UNIVERSITARIO DE TONALA (CUTONALA) - UDG\n";
         std::cout << "  MATERIA: COMPUTACION PARALELA\n";
         std::cout << "  ACTIVIDAD 1.5: BUSQUEDA PARALELA DISTRIBUIDA CON MPI Y OPENMP\n";
         std::cout << "------------------------------------------------------------------------\n";

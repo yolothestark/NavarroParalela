@@ -3,19 +3,11 @@
   PRACTICA 1.5: BUSQUEDA PARALELA DISTRIBUIDA (MPI + OPENMP)
 ========================================================================
 Nombre del Equipo / Host: Giallo (Equipo_Giallo)
-Rango MPI (Rank):         0 de 5 procesos
+Rango MPI (Rank):         0 de 2 procesos
 Hilos OpenMP detectados:  12 hilos concurrentes
-Fecha y Hora de Inicio:   2026-10-11 19:39:25
+Fecha y Hora de Inicio:   2026-10-11 19:56:29
 ========================================================================
 
-[Nodo 0] Arreglo dinamico de 100 elementos generado en 0.002000 s (Rango: 0 a 200)
-[AUDITORIA NODO 0] Ordenamiento previo con OpenMP (Parallel Merge Sort) completado en 0.000000 segundos para 100 elementos.
-[Equipo: Giallo] [Nodo MPI: 0] [Hilo OpenMP: 5] [Bloque: 0 - 100] [Algoritmo: Búsqueda Secuencial Local] [Estado: Elemento Encontrado en Índice Global: 50]
-[Equipo: Giallo] [Nodo MPI: 0] [Hilos: 12] [Bloque: 0 - 20] [Algoritmo: Búsqueda Secuencial Distribuida] [Estado: Elemento NO encontrado en este bloque local]
-[Equipo: Giallo] [Nodo MPI: 0] [Hilo OpenMP: 6] [Sub-intervalo: 48 - 55] [Algoritmo: Búsqueda Binaria Local] [Estado: Elemento Encontrado en Índice Global: 50]
-[Equipo: Giallo] [Nodo MPI: 0] [Bloque: 0 - 20] [Algoritmo: Búsqueda Binaria Distribuida] [Estado: Descartado por evaluación de límites (Rango del bloque: 2 a 47)]
-[Nodo 0] Arreglo dinamico de 10000000 elementos generado en 0.012000 s (Rango: 0 a 20000000)
-[AUDITORIA NODO 0] Ordenamiento previo con OpenMP (Parallel Merge Sort) completado en 0.450000 segundos para 10000000 elementos.
 
 ========================================================================
 Cierre de sesion del nodo 0 exitoso.

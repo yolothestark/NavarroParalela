@@ -1,7 +1,7 @@
 # Práctica 1.5: Búsqueda Paralela Distribuida con MPI y OpenMP
 
 **Universidad de Guadalajara (UDG)**  
-**Centro Universitario de Ciencias Exactas e Ingenierías (CUCEI)**  
+**Centro Universitario de Tonalá (CUTonalá)**  
 **Materia:** Computación Paralela  
 **Equipo:** Equipo Giallo  
 

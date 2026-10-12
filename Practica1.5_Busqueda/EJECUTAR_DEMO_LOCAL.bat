@@ -3,7 +3,7 @@ color 0B
 title Practica 1.5: Busqueda Paralela Distribuida (MPI + OpenMP) - DEMO LOCAL
 cls
 echo ===============================================================================
-echo      CENTRO UNIVERSITARIO DE CIENCIAS EXACTAS E INGENIERIAS (CUCEI) - UDG
+echo      CENTRO UNIVERSITARIO DE TONALA (CUTONALA) - UDG
 echo                          MATERIA: COMPUTACION PARALELA
 echo            ACTIVIDAD 1.5: BUSQUEDA PARALELA DISTRIBUIDA (MPI + OPENMP)
 echo ===============================================================================

@@ -1,5 +1,5 @@
 # Makefile para Practica 1.5: Busqueda Paralela Distribuida con MPI y OpenMP
-# Centro Universitario de Ciencias Exactas e Ingenierias (CUCEI) - UDG
+# Centro Universitario de Tonala (CUTonala) - UDG
 # Alumnos: Anguiano Garcia Angel Yahir Guadalupe, Figueroa Robles Axel Israel
 
 CXX = g++

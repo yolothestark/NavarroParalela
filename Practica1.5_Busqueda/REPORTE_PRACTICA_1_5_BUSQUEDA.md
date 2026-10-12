@@ -1,6 +1,5 @@
 # UNIVERSIDAD DE GUADALAJARA
-## Centro Universitario de Ciencias Exactas e Ingenierías (CUCEI)
-### División de Tecnologías para la Ciber-Innovación
+## Centro Universitario de Tonalá (CUTonalá)
 **Materia:** Computación Paralela  
 **Práctica:** Actividad 1.5: Búsqueda Paralela Distribuida con MPI y OpenMP  
 **Equipo:** Equipo Giallo  

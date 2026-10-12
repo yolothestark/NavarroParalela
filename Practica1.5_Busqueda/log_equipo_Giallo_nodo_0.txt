@@ -5,17 +5,25 @@
 Nombre del Equipo / Host: Giallo (Equipo_Giallo)
 Rango MPI (Rank):         0 de 5 procesos
 Hilos OpenMP detectados:  12 hilos concurrentes
-Fecha y Hora de Inicio:   2026-10-11 20:28:02
+Fecha y Hora de Inicio:   2026-10-11 20:43:27
 ========================================================================
 
-[Nodo 0] Arreglo dinamico de 100 elementos generado en 0.004000 s (Rango: 0 a 200)
+[Nodo 0] Arreglo dinamico de 100 elementos generado en 0.003000 s (Rango: 0 a 200)
+[AUDITORIA NODO 0] Ordenamiento previo con OpenMP (Parallel Merge Sort) completado en 0.000000 segundos para 100 elementos.
+[Equipo: Giallo] [Nodo MPI: 0] [Hilo OpenMP: 10] [Bloque: 0 - 100] [Algoritmo: Búsqueda Secuencial Local] [Estado: Elemento Encontrado en Índice Global: 86]
+[Equipo: Giallo] [Nodo MPI: 0] [Hilo OpenMP: 10] [Bloque: 0 - 100] [Algoritmo: Búsqueda Secuencial Local] [Estado: Elemento Encontrado en Índice Global: 87]
+[Equipo: Giallo] [Nodo MPI: 0] [Hilo OpenMP: 10] [Bloque: 0 - 100] [Algoritmo: Búsqueda Secuencial Local] [Estado: Elemento Encontrado en Índice Global: 88]
+[Equipo: Giallo] [Nodo MPI: 0] [Hilos: 12] [Bloque: 0 - 20] [Algoritmo: Búsqueda Secuencial Distribuida] [Estado: Elemento NO encontrado en este bloque local]
+[Equipo: Giallo] [Nodo MPI: 0] [Hilo OpenMP: 2] [Sub-intervalo: 16 - 23] [Algoritmo: Búsqueda Binaria Local] [Estado: Elemento Encontrado en Índice Global: 16]
+[Equipo: Giallo] [Nodo MPI: 0] [Hilo OpenMP: 11] [Bloque: 11 - 19] [Algoritmo: Búsqueda Binaria Distribuida] [Estado: Elemento Encontrado en Índice Global: 16]
+[Nodo 0] Arreglo dinamico de 100 elementos generado en 0.000000 s (Rango: 0 a 200)
 [AUDITORIA NODO 0] Ordenamiento previo con OpenMP (Parallel Merge Sort) completado en 0.000000 segundos para 100 elementos.
 [Equipo: Giallo] [Nodo MPI: 0] [Hilo OpenMP: 5] [Bloque: 0 - 100] [Algoritmo: Búsqueda Secuencial Local] [Estado: Elemento Encontrado en Índice Global: 50]
 [Equipo: Giallo] [Nodo MPI: 0] [Hilos: 12] [Bloque: 0 - 20] [Algoritmo: Búsqueda Secuencial Distribuida] [Estado: Elemento NO encontrado en este bloque local]
 [Equipo: Giallo] [Nodo MPI: 0] [Hilo OpenMP: 6] [Sub-intervalo: 48 - 55] [Algoritmo: Búsqueda Binaria Local] [Estado: Elemento Encontrado en Índice Global: 50]
-[Equipo: Giallo] [Nodo MPI: 0] [Bloque: 0 - 20] [Algoritmo: Búsqueda Binaria Distribuida] [Estado: Descartado por evaluación de límites (Rango del bloque: 0 a 40)]
-[Nodo 0] Arreglo dinamico de 10000000 elementos generado en 0.012000 s (Rango: 0 a 20000000)
-[AUDITORIA NODO 0] Ordenamiento previo con OpenMP (Parallel Merge Sort) completado en 0.449000 segundos para 10000000 elementos.
+[Equipo: Giallo] [Nodo MPI: 0] [Bloque: 0 - 20] [Algoritmo: Búsqueda Binaria Distribuida] [Estado: Descartado por evaluación de límites (Rango del bloque: 5 a 33)]
+[Nodo 0] Arreglo dinamico de 10000000 elementos generado en 0.009000 s (Rango: 0 a 20000000)
+[AUDITORIA NODO 0] Ordenamiento previo con OpenMP (Parallel Merge Sort) completado en 0.417000 segundos para 10000000 elementos.
 
 ========================================================================
 Cierre de sesion del nodo 0 exitoso.

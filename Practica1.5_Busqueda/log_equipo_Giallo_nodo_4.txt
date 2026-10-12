@@ -5,11 +5,15 @@
 Nombre del Equipo / Host: Giallo (Equipo_Giallo)
 Rango MPI (Rank):         4 de 5 procesos
 Hilos OpenMP detectados:  12 hilos concurrentes
-Fecha y Hora de Inicio:   2026-10-11 20:28:02
+Fecha y Hora de Inicio:   2026-10-11 20:43:27
 ========================================================================
 
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 4] [Bloque: 80 - 100] [Algoritmo: Búsqueda Secuencial Distribuida] [Estado: Elemento Encontrado en Índice Global: 88]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 3] [Bloque: 80 - 100] [Algoritmo: Búsqueda Secuencial Distribuida] [Estado: Elemento Encontrado en Índice Global: 86]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 3] [Bloque: 80 - 100] [Algoritmo: Búsqueda Secuencial Distribuida] [Estado: Elemento Encontrado en Índice Global: 87]
+[Equipo: Giallo] [Nodo MPI: 4] [Bloque: 80 - 100] [Algoritmo: Búsqueda Binaria Distribuida] [Estado: Descartado por evaluación de límites (Rango del bloque: 154 a 196)]
 [Equipo: Giallo] [Nodo MPI: 4] [Hilos: 12] [Bloque: 80 - 100] [Algoritmo: Búsqueda Secuencial Distribuida] [Estado: Elemento NO encontrado en este bloque local]
-[Equipo: Giallo] [Nodo MPI: 4] [Bloque: 80 - 100] [Algoritmo: Búsqueda Binaria Distribuida] [Estado: Descartado por evaluación de límites (Rango del bloque: 157 a 194)]
+[Equipo: Giallo] [Nodo MPI: 4] [Bloque: 80 - 100] [Algoritmo: Búsqueda Binaria Distribuida] [Estado: Descartado por evaluación de límites (Rango del bloque: 158 a 199)]
 
 ========================================================================
 Cierre de sesion del nodo 4 exitoso.

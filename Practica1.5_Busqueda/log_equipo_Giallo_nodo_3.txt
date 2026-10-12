@@ -5,11 +5,13 @@
 Nombre del Equipo / Host: Giallo (Equipo_Giallo)
 Rango MPI (Rank):         3 de 5 procesos
 Hilos OpenMP detectados:  12 hilos concurrentes
-Fecha y Hora de Inicio:   2026-10-11 20:28:02
+Fecha y Hora de Inicio:   2026-10-11 20:43:27
 ========================================================================
 
 [Equipo: Giallo] [Nodo MPI: 3] [Hilos: 12] [Bloque: 60 - 80] [Algoritmo: Búsqueda Secuencial Distribuida] [Estado: Elemento NO encontrado en este bloque local]
-[Equipo: Giallo] [Nodo MPI: 3] [Bloque: 60 - 80] [Algoritmo: Búsqueda Binaria Distribuida] [Estado: Descartado por evaluación de límites (Rango del bloque: 122 a 152)]
+[Equipo: Giallo] [Nodo MPI: 3] [Bloque: 60 - 80] [Algoritmo: Búsqueda Binaria Distribuida] [Estado: Descartado por evaluación de límites (Rango del bloque: 121 a 147)]
+[Equipo: Giallo] [Nodo MPI: 3] [Hilos: 12] [Bloque: 60 - 80] [Algoritmo: Búsqueda Secuencial Distribuida] [Estado: Elemento NO encontrado en este bloque local]
+[Equipo: Giallo] [Nodo MPI: 3] [Bloque: 60 - 80] [Algoritmo: Búsqueda Binaria Distribuida] [Estado: Descartado por evaluación de límites (Rango del bloque: 112 a 158)]
 
 ========================================================================
 Cierre de sesion del nodo 3 exitoso.

@@ -1,0 +1,5 @@
+# Archivo de nodos para ejecucion distribuida en red (MS-MPI)
+# Especificar nombre o direccion IP de cada maquina seguido de la cantidad de procesos
+localhost 2
+# 192.168.1.50 2
+# 192.168.1.51 1

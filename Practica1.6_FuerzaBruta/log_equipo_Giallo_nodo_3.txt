@@ -1,0 +1,56 @@
+========================================================================
+  REGISTRO DE AUDITORIA Y PERSISTENCIA POR NODO
+  CENTRO UNIVERSITARIO DE TONALA (CUTONALA) - UDG
+  PRACTICA 1.6: ALGORITMO DE FUERZA BRUTA DISTRIBUIDO (MPI + OPENMP)
+========================================================================
+Nombre del Equipo / Host: Giallo (Equipo_Giallo)
+Rango MPI (Rank):         3 de 5 procesos
+Rol en la Arquitectura:   PROCESO ESCLAVO (TRABAJADOR)
+Hilos OpenMP detectados:  12 hilos concurrentes
+Fecha y Hora de Inicio:   2026-10-11 21:12:02
+========================================================================
+
+[Nodo MPI: 3] Rango recibido del Maestro: [23328 a 34991] (11664 combinaciones asignadas). Iniciando busqueda con 12 hilos OpenMP.
+[Equipo: Giallo] [Nodo MPI: 3] [Hilo OpenMP: 2] [Candidato: SAA] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 3] [Hilo OpenMP: 10] [Candidato: XQQ] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 3] [Hilo OpenMP: 0] [Candidato: Z12] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 3] [Hilo OpenMP: 3] [Candidato: TVU] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 3] [Hilo OpenMP: 4] [Candidato: VFE] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 3] [Hilo OpenMP: 9] [Candidato: V66] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 3] [Hilo OpenMP: 11] [Candidato: WYY] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 3] [Hilo OpenMP: 1] [Candidato: YII] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 3] [Hilo OpenMP: 5] [Candidato: S32] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 3] [Hilo OpenMP: 5] [Candidato: S9M] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 3] [Hilo OpenMP: 7] [Candidato: ZAA] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 3] [Hilo OpenMP: 6] [Candidato: UNM] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 3] [Hilo OpenMP: 10] [Candidato: XWA] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 3] [Hilo OpenMP: 0] [Candidato: Z7M] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 3] [Hilo OpenMP: 0] [Candidato: 0C6] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 3] [Hilo OpenMP: 3] [Candidato: T1E] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 3] [Hilo OpenMP: 4] [Candidato: VKY] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 3] [Hilo OpenMP: 9] [Candidato: WCQ] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 3] [Hilo OpenMP: 11] [Candidato: W4I] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 3] [Hilo OpenMP: 1] [Candidato: YN2] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 3] [Hilo OpenMP: 1] [Candidato: YTM] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 3] [Hilo OpenMP: 5] [Candidato: TE6] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 3] [Hilo OpenMP: 7] [Candidato: ZFU] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 3] [Hilo OpenMP: 6] [Candidato: US6] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 3] [Hilo OpenMP: 10] [Candidato: X1U] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 3] [Hilo OpenMP: 8] [Candidato: 0TU] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 3] [Hilo OpenMP: 0] [Candidato: 0IQ] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 3] [Hilo OpenMP: 3] [Candidato: T6Y] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 3] [Hilo OpenMP: 4] [Candidato: VQI] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 3] [Hilo OpenMP: 9] [Candidato: WIA] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 3] [Hilo OpenMP: 11] [Candidato: W92] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 3] [Hilo OpenMP: 2] [Candidato: SCA] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 3] [Hilo OpenMP: 1] [Candidato: YY6] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 3] [Hilo OpenMP: 5] [Candidato: TKQ] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 3] [Hilo OpenMP: 7] [Candidato: ZLE] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 3] [Hilo OpenMP: 6] [Candidato: UYQ] [Estado: Evaluando]
+
+[EXITO] [Equipo: Giallo] [Nodo MPI: 3] [Hilo OpenMP: 10] [Clave Encontrada: "X7B"] [Indice Global: 30997]
+[Nodo MPI: 3] Finalizacion limpia y liberacion de memoria completada.
+
+========================================================================
+[Nodo MPI: 3] Cierre de sesion y finalizacion limpia del proceso.
+========================================================================

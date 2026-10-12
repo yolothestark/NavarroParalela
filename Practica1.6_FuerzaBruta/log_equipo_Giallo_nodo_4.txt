@@ -1,0 +1,78 @@
+========================================================================
+  REGISTRO DE AUDITORIA Y PERSISTENCIA POR NODO
+  CENTRO UNIVERSITARIO DE TONALA (CUTONALA) - UDG
+  PRACTICA 1.6: ALGORITMO DE FUERZA BRUTA DISTRIBUIDO (MPI + OPENMP)
+========================================================================
+Nombre del Equipo / Host: Giallo (Equipo_Giallo)
+Rango MPI (Rank):         4 de 5 procesos
+Rol en la Arquitectura:   PROCESO ESCLAVO (TRABAJADOR)
+Hilos OpenMP detectados:  12 hilos concurrentes
+Fecha y Hora de Inicio:   2026-10-11 21:12:02
+========================================================================
+
+[Nodo MPI: 4] Rango recibido del Maestro: [34992 a 46655] (11664 combinaciones asignadas). Iniciando busqueda con 12 hilos OpenMP.
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 0] [Candidato: 1AA] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 0] [Candidato: 1AI] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 2] [Candidato: 2T2] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 7] [Candidato: 4DM] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 5] [Candidato: 3LU] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 5] [Candidato: 3RE] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 8] [Candidato: 5W6] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 6] [Candidato: 45E] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 11] [Candidato: 6OY] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 11] [Candidato: 6UI] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 10] [Candidato: 7GQ] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 3] [Candidato: 80A] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 1] [Candidato: 12A] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 9] [Candidato: 9R2] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 0] [Candidato: 1F2] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 2] [Candidato: 2ZM] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 7] [Candidato: 4I6] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 5] [Candidato: 3WY] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 8] [Candidato: 52Q] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 6] [Candidato: 5AY] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 4] [Candidato: 78I] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 11] [Candidato: 6Z2] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 10] [Candidato: 7MA] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 3] [Candidato: 85U] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 1] [Candidato: 17U] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 9] [Candidato: 9XM] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 0] [Candidato: 1LM] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 2] [Candidato: 246] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 2] [Candidato: 3AQ] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 5] [Candidato: 32I] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 8] [Candidato: 58A] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 6] [Candidato: 5GI] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 4] [Candidato: 8D2] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 11] [Candidato: 65M] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 10] [Candidato: 7RU] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 3] [Candidato: 9BE] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 1] [Candidato: 2DE] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 9] [Candidato: 926] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 0] [Candidato: 1Q6] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 7] [Candidato: 4OQ] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 2] [Candidato: 3GA] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 5] [Candidato: 372] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 8] [Candidato: 6DU] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 6] [Candidato: 5L2] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 4] [Candidato: 8JM] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 11] [Candidato: 7A6] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 10] [Candidato: 7XE] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 3] [Candidato: 9GY] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 1] [Candidato: 2IY] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 9] [Candidato: 98Q] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 0] [Candidato: 1WQ] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 7] [Candidato: 4UA] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 8] [Candidato: 6JE] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 6] [Candidato: 5RM] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 4] [Candidato: 8O6] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 10] [Candidato: 72Y] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 3] [Candidato: 9MI] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 1] [Candidato: 2OI] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 7] [Candidato: 4ZU] [Estado: Evaluando]
+[Equipo: Giallo] [Nodo MPI: 4] [Hilo OpenMP: 4] [Candidato: 8UQ] [Estado: Evaluando]
+[Nodo MPI: 4] Finalizacion limpia y liberacion de memoria completada.
+
+========================================================================
+[Nodo MPI: 4] Cierre de sesion y finalizacion limpia del proceso.
+========================================================================

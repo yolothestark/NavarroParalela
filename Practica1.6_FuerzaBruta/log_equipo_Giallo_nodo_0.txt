@@ -1,0 +1,30 @@
+========================================================================
+  REGISTRO DE AUDITORIA Y PERSISTENCIA POR NODO
+  CENTRO UNIVERSITARIO DE TONALA (CUTONALA) - UDG
+  PRACTICA 1.6: ALGORITMO DE FUERZA BRUTA DISTRIBUIDO (MPI + OPENMP)
+========================================================================
+Nombre del Equipo / Host: Giallo (Equipo_Giallo)
+Rango MPI (Rank):         0 de 5 procesos
+Rol en la Arquitectura:   PROCESO MAESTRO (COORDINADOR)
+Hilos OpenMP detectados:  12 hilos concurrentes
+Fecha y Hora de Inicio:   2026-10-11 21:12:02
+========================================================================
+
+[MAESTRO - Nodo 0] Espacio total de combinaciones: 46656
+[MAESTRO - Nodo 0] Distribuyendo rangos a 4 nodos esclavos:
+  - Esclavo 1: [0 a 11663] (11664 combinaciones)
+  - Esclavo 2: [11664 a 23327] (11664 combinaciones)
+  - Esclavo 3: [23328 a 34991] (11664 combinaciones)
+  - Esclavo 4: [34992 a 46655] (11664 combinaciones)
+
+========================================================================
+>>> [MAESTRO] CLAVE LOCALIZADA POR ESCLAVO 3 (Hilo OpenMP 10) <<<
+Clave descifrada: "X7B" en Indice Global: 30997
+Tiempo transcurrido: 0.012359 s
+Propagando orden de cancelacion temprana (Early Termination) a los demas nodos...
+========================================================================
+
+
+========================================================================
+[Nodo MPI: 0] Cierre de sesion y finalizacion limpia del proceso.
+========================================================================

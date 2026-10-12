@@ -7,7 +7,7 @@ Nombre del Equipo / Host: Giallo (Equipo_Giallo)
 Rango MPI (Rank):         0 de 5 procesos
 Rol en la Arquitectura:   PROCESO MAESTRO (COORDINADOR)
 Hilos OpenMP detectados:  12 hilos concurrentes
-Fecha y Hora de Inicio:   2026-10-11 21:12:02
+Fecha y Hora de Inicio:   2026-10-11 21:42:56
 ========================================================================
 
 [MAESTRO - Nodo 0] Espacio total de combinaciones: 46656
@@ -18,9 +18,23 @@ Fecha y Hora de Inicio:   2026-10-11 21:12:02
   - Esclavo 4: [34992 a 46655] (11664 combinaciones)
 
 ========================================================================
->>> [MAESTRO] CLAVE LOCALIZADA POR ESCLAVO 3 (Hilo OpenMP 10) <<<
+>>> [MAESTRO] CLAVE LOCALIZADA POR ESCLAVO 3 (Hilo OpenMP 9) <<<
 Clave descifrada: "X7B" en Indice Global: 30997
-Tiempo transcurrido: 0.012359 s
+Tiempo transcurrido: 0.011211 s
+Propagando orden de cancelacion temprana (Early Termination) a los demas nodos...
+========================================================================
+
+[MAESTRO - Nodo 0] Espacio total de combinaciones: 46656
+[MAESTRO - Nodo 0] Distribuyendo rangos a 4 nodos esclavos:
+  - Esclavo 1: [0 a 11663] (11664 combinaciones)
+  - Esclavo 2: [11664 a 23327] (11664 combinaciones)
+  - Esclavo 3: [23328 a 34991] (11664 combinaciones)
+  - Esclavo 4: [34992 a 46655] (11664 combinaciones)
+
+========================================================================
+>>> [MAESTRO] CLAVE LOCALIZADA POR ESCLAVO 3 (Hilo OpenMP 7) <<<
+Clave descifrada: "X7B" en Indice Global: 30997
+Tiempo transcurrido: 0.004721 s
 Propagando orden de cancelacion temprana (Early Termination) a los demas nodos...
 ========================================================================
 

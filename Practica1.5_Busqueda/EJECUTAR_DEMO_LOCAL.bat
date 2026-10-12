@@ -1,4 +1,5 @@
 @echo off
+cd /d "%~dp0"
 color 0B
 title Practica 1.5: Busqueda Paralela Distribuida (MPI + OpenMP) - DEMO LOCAL
 cls
@@ -23,9 +24,12 @@ echo   2. Opcion 6: Muestra la tabla consolidada de Speedup y tiempos.
 echo   3. Opcion 7: Finaliza la sesion.
 echo.
 echo ===============================================================================
-pause
+echo Presione cualquier tecla para iniciar el cluster MPI...
+pause >nul
 echo.
-echo Iniciando cluster local con MS-MPI...
+echo ===============================================================================
+echo Iniciando cluster local de 5 procesos con MS-MPI...
+echo ===============================================================================
 echo.
 
 mpiexec -n 5 Practica1_5.exe
@@ -41,8 +45,7 @@ echo  - log_equipo_Giallo_nodo_3.txt
 echo  - log_equipo_Giallo_nodo_4.txt
 echo ===============================================================================
 echo.
-set /p abrir="Deseas abrir los 5 archivos de log en el Bloc de Notas para tu video? (S/N): "
-if /i "%abrir%"=="S" (
-    call VER_LOGS.bat
-)
+echo Presione cualquier tecla para abrir los 5 archivos de log en el Bloc de Notas...
+pause >nul
+call VER_LOGS.bat
 pause

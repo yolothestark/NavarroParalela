@@ -5,9 +5,12 @@
 Nombre del Equipo / Host: Giallo (Equipo_Giallo)
 Rango MPI (Rank):         2 de 5 procesos
 Hilos OpenMP detectados:  12 hilos concurrentes
-Fecha y Hora de Inicio:   2026-10-11 19:51:14
+Fecha y Hora de Inicio:   2026-10-11 20:28:02
 ========================================================================
 
-[Equipo: Giallo] [Nodo MPI: 2] [Hilos: 12] [Bloque: 40 - 60] [Algoritmo: Búsqueda Secuencial Distribuida] [Estado: Elemento NO encontrado en este bloque local]
 [Equipo: Giallo] [Nodo MPI: 2] [Hilo OpenMP: 5] [Bloque: 40 - 60] [Algoritmo: Búsqueda Secuencial Distribuida] [Estado: Elemento Encontrado en Índice Global: 50]
 [Equipo: Giallo] [Nodo MPI: 2] [Hilo OpenMP: 10] [Bloque: 50 - 50] [Algoritmo: Búsqueda Binaria Distribuida] [Estado: Elemento Encontrado en Índice Global: 50]
+
+========================================================================
+Cierre de sesion del nodo 2 exitoso.
+========================================================================
